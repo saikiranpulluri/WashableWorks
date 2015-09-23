@@ -1,0 +1,17 @@
+<resources>
+
+    <color name="materialBlue_900">#01579b</color>
+    <color name="materialBlue_400">#00b0ff</color>
+    <color name="materialBlue_100">#80d8ff</color>
+    <color name="materialColor_White">#ffffff</color>
+    <color name="textPrimaryColor">#000000</color>
+    <!-- Base application theme. -->
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/materialBlue_400</item>
+        <item name="colorPrimaryDark">@color/materialBlue_900</item>
+        <item name="colorAccent">@color/materialBlue_100</item>
+        <item name="android:windowBackground">@color/materialColor_White</item>
+    </style>
+
+</resources>

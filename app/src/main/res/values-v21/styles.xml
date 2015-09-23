@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<style name="AppTheme" parent="Theme.AppCompat">-->
+        <!--<item name="android:colorPrimary">@color/materialBlue_400</item>-->
+        <!--<item name="android:colorPrimaryDark">@color/materialBlue_900</item>-->
+        <!--<item name="android:colorAccent">@color/materialBlue_100</item>-->
+        <!--<item name="android:windowBackground">@color/materialColor_White</item>-->
+    <!--</style>-->
+</resources>
